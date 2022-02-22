@@ -1,0 +1,28 @@
+.treesearchimage{
+   text-align: center;
+
+}
+
+.maroonFont{
+    color: #660000;
+    padding-top: 0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline;
+    font-size: medium;
+}
+
+.colorblue{
+    display: inline;
+    font-size:medium;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.sixtables,table,th,td{
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: start;
+}
+
